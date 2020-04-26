@@ -34,6 +34,6 @@ Python Code Block
 import numpy as np
 ```
 
-<img src="{{ site.url}} {{ sitebase.url }}/assets/images/bot2.jpg" alt="linearly seperate">
+<img src="{{ site.url}} {{ site.baseurl }}/assets/images/bot2.jpg" alt="linearly seperate">
 
 
