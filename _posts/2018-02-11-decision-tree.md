@@ -14,10 +14,6 @@ mathjax: "true"
 
 Bold Text **Hai**.
 
-Normal Text.
-
-[![Visualize a Decision Tree from a Random Forest](http://img.youtube.com/vi/SMGEmCOUBUw/0.jpg)](http://www.youtube.com/watch?v=SMGEmCOUBUw){:target="_blank"}
-
 Bullets:
 
 * First
