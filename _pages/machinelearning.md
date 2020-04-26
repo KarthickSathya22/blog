@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About Me"
+permalink: /machinelearning/
+title: "Machine Learning"
 ---
 
 I am a Machine Learning Engineer based out of Chennai, India. My primary interests include Machine Learning, Deep Learning.
