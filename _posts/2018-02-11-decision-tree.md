@@ -16,9 +16,7 @@ Bold Text **Hai**.
 
 Normal Text.
 
-Hyperlink [link](www.google.co.in)
-
-<a href="www.google.co.in">Link to the Google</a>
+[![Visualize a Decision Tree from a Random Forest](http://img.youtube.com/vi/SMGEmCOUBUw/0.jpg)](http://www.youtube.com/watch?v=SMGEmCOUBUw){:target="_blank"}
 
 Bullets:
 
@@ -35,4 +33,4 @@ Python Code Block
 ```python
 import numpy as np
 ```
-{% include figure image_path="/assets/images/bot2.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="/assets/images/bot2.jpg" alt="this is a placeholder image" %}
