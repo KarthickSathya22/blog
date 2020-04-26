@@ -5,7 +5,7 @@ title: "About Me"
 
 I am a Machine Learning Engineer based out of Chennai, India. My primary interests include Machine Learning, Deep Learning.
 
-I am a Machine Learning Engineer in **Esfita Infoctech** since October 2020.
+I am a Machine Learning Engineer in **Esfita Infotech** since October 2020.
 
 I did my undergraduate degree in Computer Science at at **Adhiparashakthi Engineering College, Melmaruvathur** in 2019.
 
