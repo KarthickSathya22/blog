@@ -17,8 +17,8 @@ name                     : "Karthick Sathya"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # andhint/andhint.github.io"
-teaser                   : #"/images/USA_Bhavesh.jpg"
+repository               : 
+teaser                   : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,9 +83,6 @@ author:
   name             : "Karthick Sathya"
   avatar           : "/assets/images/bot2.jpg"
   bio              : "Machine Learning Engineer"
-  #bio             : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
-  #bio             : "Data Scientist, Google Develeoper Expert in ML, YouTube Creator"
-  #bio             : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Chennai, India"
   target-blank     : "ext-link"
   email            : "karthickprogrammer22@gmail.com"
