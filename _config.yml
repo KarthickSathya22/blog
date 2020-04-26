@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Karthick Sathya"
-  avatar           : "/assets/images/bot2.jpeg"
+  avatar           : "/assets/images/bot2.jpg"
   bio              : "Machine Learning Engineer"
   #bio             : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
   #bio             : "Data Scientist, Google Develeoper Expert in ML, YouTube Creator"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/KarthickSathya22"
+  github           : "KarthickSathya22"
   google_plus      :
   keybase          :
   instagram        : 
