@@ -18,6 +18,8 @@ Normal Text.
 
 Hyperlink [link](www.google.co.in)
 
+<a href="www.google.co.in">Link to the Google</a>
+
 Bullets:
 
 * First
