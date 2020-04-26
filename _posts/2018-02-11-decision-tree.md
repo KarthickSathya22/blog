@@ -8,9 +8,9 @@ excerpt: "Machine Learning Decision Tree"
 mathjax: "true"
 ---
 
-#H1 Header
+# H1 Header
 
-##H2 Header
+## H2 Header
 
 Bold Text **Hai**.
 
@@ -20,20 +20,16 @@ Hyperlink [link](www.google.co.in)
 
 Bullets:
 
-*First,
+* First
 
-*Second,
+* Second
 
-*Third,
+* Third
 
-*Fourth. 
+* Fourth 
 
 Python Code Block
 
 ```python
 import numpy as np
 ```
-
-<img src="{{ site.url}} {{ site.baseurl }}/assets/images/bot2.jpg" alt="linearly seperate">
-
-
