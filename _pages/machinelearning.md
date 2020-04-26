@@ -1,18 +1,19 @@
 ---
+layout: archive
 permalink: /machinelearning/
-title: "Machine Learning"
+title: "Machine Learning Posts By Tags"
+author_profile: true
+header:
+  image: "images/bot2.jpg"
 ---
 
-I am a Machine Learning Engineer based out of Chennai, India. My primary interests include Machine Learning, Deep Learning.
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
 
-I am a **Machine Learning Engineer** in Esfita Infoctech since October 2020.
-
-I did my undergraduate degree in Computer Science at at **Adhiparashakthi Engineering College, Melmaruvathur** in 2019.
-
-In order to give back to the community from which I learnt so much I started writing blog posts.
-
-In case you want help in machine learning projects, feel free to write to me or connect with me.
-
-**Email** : karthickprogrammer22 [at] gmail [dot] com
-
-**GitHub** : https://github.com/KarthickSathya22
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
